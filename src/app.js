@@ -22,7 +22,9 @@ function spliced(){
 // Progression 3:
 
 function isEven(number){
-    return number%2==0 ? true:false;
+    return number%2==0 
+    ? true
+    :false;
 }
 
 function isPrime(number){
